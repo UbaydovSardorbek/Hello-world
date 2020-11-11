@@ -1,2 +1,2 @@
-# Hello-world
+sardorbek.ubaydov
 new  repository
